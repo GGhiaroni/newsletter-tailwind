@@ -21,3 +21,4 @@ Tailwind CSS 🎨: Para estilização moderna e responsiva.
 ## 🌟 Prévia do Projeto
 Confira a prévia do projeto:
 
+https://newsletter-tailwind-zeta.vercel.app/
